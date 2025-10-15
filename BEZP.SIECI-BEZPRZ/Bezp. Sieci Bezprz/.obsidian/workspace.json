@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "1f159add9e7dbc24",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3db226ab831a663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a26e29c70c07a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wykład 2/ERP, EIRP, Gi, Gd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ERP, EIRP, Gi, Gd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe127f2f611f86d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5934214bca6972e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f2e8a54a9b144a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "afc5fb21f4a39b54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7aa297f34ff8a3c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54654d8415247327",
+    "type": "split",
+    "children": [
+      {
+        "id": "714f459b61417d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555b02d0b2b349e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wykład 1/Nomenklatura.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nomenklatura"
+            }
+          },
+          {
+            "id": "15f074fbd3d962cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wykład 1/Nomenklatura.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nomenklatura"
+            }
+          },
+          {
+            "id": "8ba35592e90c2376",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a1c36bed22010c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wykład 1/Nomenklatura.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nomenklatura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a26e29c70c07a36",
+  "lastOpenFiles": [
+    "Wykład 2/ERP, EIRP, Gi, Gd.md",
+    "Wykład 2/Tłumienie fali w ośrodku EM.md",
+    "Wykład 2/Natura fali elektromagnetycznej.md",
+    "Wykład 1/Decybele.md",
+    "Wykład 1/Nomenklatura.md",
+    "Wykład 1/Podstawy telekomunikacji.md",
+    "Wykład 2",
+    "INFO.md",
+    "Welcome.md",
+    "Wykład 1"
+  ]
+}
