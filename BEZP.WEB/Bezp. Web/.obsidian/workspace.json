@@ -1,54 +1,41 @@
 {
   "main": {
-    "id": "1f159add9e7dbc24",
+    "id": "d668e9f26b7d18f0",
     "type": "split",
     "children": [
       {
-        "id": "a3db226ab831a663",
+        "id": "5f0090bb122d2784",
         "type": "tabs",
         "children": [
           {
-            "id": "2a26e29c70c07a36",
+            "id": "16a8c0bb6e48b92d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wykład 2/Tłumienie fali w ośrodku EM.md",
+                "file": "Wykład 1/Wstep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tłumienie fali w ośrodku EM"
-            }
-          },
-          {
-            "id": "5bfa8c7d7141f71e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Wstep"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fe127f2f611f86d1",
+    "id": "c7ccfefd5be3d2d5",
     "type": "split",
     "children": [
       {
-        "id": "5934214bca6972e9",
+        "id": "843ddba495ba3ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2e8a54a9b144a0",
+            "id": "cf1f9906c80e0e48",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +48,7 @@
             }
           },
           {
-            "id": "afc5fb21f4a39b54",
+            "id": "e79d95607f2f176b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +65,7 @@
             }
           },
           {
-            "id": "7aa297f34ff8a3c4",
+            "id": "eb13ceb164e0ac5f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "54654d8415247327",
+    "id": "929d922d1d21d529",
     "type": "split",
     "children": [
       {
-        "id": "714f459b61417d03",
+        "id": "6771621b095d74d3",
         "type": "tabs",
         "children": [
           {
-            "id": "555b02d0b2b349e2",
+            "id": "07cd6fe72652633a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wykład 1/Nomenklatura.md",
+                "file": "Wykład 1/Wstep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nomenklatura"
+              "title": "Backlinks for Wstep"
             }
           },
           {
-            "id": "15f074fbd3d962cb",
+            "id": "e0021eb3e2714c3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wykład 1/Nomenklatura.md",
+                "file": "Wykład 1/Wstep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nomenklatura"
+              "title": "Outgoing links from Wstep"
             }
           },
           {
-            "id": "8ba35592e90c2376",
+            "id": "96c82861e933c311",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,18 +137,18 @@
             }
           },
           {
-            "id": "0a1c36bed22010c5",
+            "id": "c70f517ea90da39b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wykład 1/Nomenklatura.md",
+                "file": "Wykład 1/Wstep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nomenklatura"
+              "title": "Outline of Wstep"
             }
           }
         ]
@@ -173,26 +160,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "5bfa8c7d7141f71e",
+  "active": "16a8c0bb6e48b92d",
   "lastOpenFiles": [
-    "Wykład 2/Natura fali elektromagnetycznej.md",
-    "Wykład 2/ERP, EIRP, Gi, Gd.md",
-    "Wykład 1/Podstawy telekomunikacji.md",
-    "Wykład 1/Nomenklatura.md",
-    "Wykład 1/Decybele.md",
-    "Wykład 2/Tłumienie fali w ośrodku EM.md",
-    "INFO.md",
-    "Wykład 2",
-    "Welcome.md",
-    "Wykład 1"
+    "Wykład 1/Wstep.md",
+    "Wykład 1",
+    "Welcome.md"
   ]
 }

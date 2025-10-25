@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wyklad 1/t.md",
+                "file": "Zarządzanie hasłami/Połączenia SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "t"
+              "title": "Połączenia SSH"
             }
           }
         ]
@@ -171,7 +171,17 @@
   },
   "active": "5bb3a12943a5ebe5",
   "lastOpenFiles": [
+    "Pasted image 20251026010411.png",
+    "Zarządzanie hasłami/Podstawy SSH.md",
+    "Zarządzanie hasłami/Połączenia SSH.md",
+    "Zarządzanie hasłami/Szyfrowanie haseł.md",
+    "Pasted image 20251026004823.png",
+    "Zarządzanie hasłami/Tworzenie użytkowników.md",
+    "Zarządzanie hasłami/Dodatkowe ustawienia haseł i dostępu.md",
+    "Zarządzanie hasłami/Najprostsza wersja.md",
+    "Zarządzanie hasłami/Zabezpieczanie logowaia.md",
     "INFO.md",
+    "Zarządzanie hasłami",
     "Wyklad 1/t.md",
     "Wyklad 1"
   ]
