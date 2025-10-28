@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEMINARIA/Info.md",
+                "file": "WYKŁAD/Wykład 2/Zastosowania biometrii.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Info"
+              "title": "Zastosowania biometrii"
             }
           }
         ]
@@ -171,7 +171,13 @@
   },
   "active": "d26b0de95b39e801",
   "lastOpenFiles": [
+    "WYKŁAD/Wykład 1/Generyczny schemat systemu biometrycznego.md",
+    "WYKŁAD/Wykład 2/Zastosowania biometrii.md",
+    "WYKŁAD/Wykład 2",
+    "WYKŁAD/Wykład 1/ddd.md",
+    "WYKŁAD/Info.md",
     "SEMINARIA/Info.md",
+    "WYKŁAD/Wykład 1",
     "WYKŁAD",
     "SEMINARIA",
     "Welcome.md"

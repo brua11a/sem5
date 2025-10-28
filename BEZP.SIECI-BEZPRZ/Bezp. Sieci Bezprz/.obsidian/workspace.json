@@ -13,11 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Wykład 2/Tłumienie fali w ośrodku EM.md",
+=======
+                "file": "Wykład 4/Wstęp ogólny.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Tłumienie fali w ośrodku EM"
             }
           },
@@ -31,6 +36,9 @@
               },
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.14"
+=======
+              "title": "Wstęp ogólny"
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -184,8 +192,20 @@
   },
   "active": "5bfa8c7d7141f71e",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Wykład 2/Natura fali elektromagnetycznej.md",
     "Wykład 2/ERP, EIRP, Gi, Gd.md",
+=======
+    "Wykład 3/Modele propagacyjne.md",
+    "Wykład 4/Wstęp ogólny.md",
+    "Wykład 4",
+    "Wykład 2/Natura fali elektromagnetycznej.md",
+    "Wykład 2/Tłumienie fali w ośrodku EM.md",
+    "Wykład 3",
+    "Wykład 2/ERP, EIRP, Gi, Gd.md",
+    "Wykład 1/Decybele.md",
+    "Wykład 1/Nomenklatura.md",
+>>>>>>> Stashed changes
     "Wykład 1/Podstawy telekomunikacji.md",
     "Wykład 1/Nomenklatura.md",
     "Wykład 1/Decybele.md",
