@@ -1,0 +1,1 @@
+Do autentykacji jest wykorzystywana lokalna baza użytkowników. Trzeba ich manualnie [[Tworzenie użytkowników|stworzyć]]. 

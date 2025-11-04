@@ -5,4 +5,4 @@ Samo `secret` używa co najwyżej szyfrowania 5 (hash MD5), czyli słabego. Podo
 
 #### `username name secret hasło` -> `username` **`algorithm-type` *`algorytm`*** `secret hasło`
 
-`username` *`name`* `password` *`password`* nie powinno nigdy być używane.
+`username` *`name`* ~~`password` *`password`*~~ nie powinno nigdy być używane.

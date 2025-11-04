@@ -1,0 +1,5 @@
+[[Najprostsza wersja]] autentykacji nie wykorzystuje AAA. Jest szybka w wykonaniu, ale bardzo słaba. Każdy, kto ma hasło może się zalogować.
+
+Lepszą metodą jest zdalny dostęp przez [[Podstawy SSH|SSH]], gdzie wymagana jest kombinacja `username@ip_addr`. Dzięki temu występuje dodatkowy element uwierzytelniania (username) i dodatkowo dostęp jest logowany. Nazywamy to "[[Local AAA|lokalnym AAA]]". Wadą tego rozwiązania jest to, że lokalni użytkownicy musieliby zostać manualnie [[Tworzenie użytkowników|stworzeni]] na wszystkich maszynach, a poza tym nie ma alternatywnego sposobu logowania się w przypadku utraty credentiali.
+
+Najlepszy sposób zarządzania dostępem polega na wspólnej bazie użytkowników i haseł poprzez zcentralizowany serwer. **Do tego właśnie jest wykorzystywany szeroko pojęty [[AAA]].**

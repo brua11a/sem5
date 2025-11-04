@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zarządzanie hasłami/Połączenia SSH.md",
+                "file": "AAA/Local AAA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Połączenia SSH"
+              "title": "Local AAA"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,18 +171,45 @@
   },
   "active": "5bb3a12943a5ebe5",
   "lastOpenFiles": [
-    "Pasted image 20251026010411.png",
-    "Zarządzanie hasłami/Podstawy SSH.md",
-    "Zarządzanie hasłami/Połączenia SSH.md",
-    "Zarządzanie hasłami/Szyfrowanie haseł.md",
-    "Pasted image 20251026004823.png",
+    "AAA/Server-Based AAA.md",
+    "Pasted image 20251103204304.png",
+    "Pasted image 20251103204259.png",
+    "AAA/Local AAA.md",
+    "AAA/Autentykacja bez AAA.md",
+    "AAA/AAA.md",
     "Zarządzanie hasłami/Tworzenie użytkowników.md",
-    "Zarządzanie hasłami/Dodatkowe ustawienia haseł i dostępu.md",
+    "Zarządzanie dostępem/Debugowanie CLI Views.md",
+    "Zarządzanie dostępem/Privilege level.md",
+    "Zarządzanie dostępem/Superview.md",
+    "Zarządzanie dostępem/Role-Based CLI.md",
+    "Zarządzanie hasłami/Podstawy SSH.md",
     "Zarządzanie hasłami/Najprostsza wersja.md",
-    "Zarządzanie hasłami/Zabezpieczanie logowaia.md",
+    "Zarządzanie hasłami/Dodatkowe ustawienia haseł i dostępu.md",
+    "Zarządzanie i nadzorowanie urządzeniami/Podatności SNMP.md",
+    "AAA",
+    "Zarządzanie i nadzorowanie urządzeniami/MIB.md",
+    "ACL/ACL.md",
+    "ACL",
+    "Zarządzanie i nadzorowanie urządzeniami/SNMP.md",
+    "Zarządzanie i nadzorowanie urządzeniami/NTP.md",
+    "Zarządzanie i nadzorowanie urządzeniami/AutoSecure.md",
+    "Zarządzanie i nadzorowanie urządzeniami/Żądania SNMP.md",
+    "Zarządzanie i nadzorowanie urządzeniami/Syslog.md",
+    "Zarządzanie i nadzorowanie urządzeniami/Zabezpieczenia społecznościowe.md",
+    "Pasted image 20250518130003.png",
+    "Pasted image 20250518115056.png",
+    "Pasted image 20250518114609.png",
+    "Pasted image 20250518113828.png",
+    "Zarządzanie i nadzorowanie urządzeniami/Zabezpieczanie dynamicznego routingu.md",
+    "Zarządzanie i nadzorowanie urządzeniami/Protokoły 'rozpoznawania'.md",
     "INFO.md",
+    "Zarządzanie i nadzorowanie urządzeniami/Zabezpieczanie IOS i konfiguracji.md",
+    "Zarządzanie i nadzorowanie urządzeniami",
+    "Pasted image 20251027233726.png",
+    "Zarządzanie dostępem",
+    "Pasted image 20251026010411.png",
+    "Pasted image 20251026004823.png",
     "Zarządzanie hasłami",
-    "Wyklad 1/t.md",
     "Wyklad 1"
   ]
 }
