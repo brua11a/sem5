@@ -1,0 +1,3 @@
+AWS Single Sign-On umożliwia tworzenie nowych tożsamości lub integrację z zewnętrznymi dostawcami tożsamości (takimi jak [[Directory Service|Active Directory]], Azure AD czy Okta) w celu centralnego zarządzania dostępem do kont i aplikacji AWS.
+
+Dzięki temu użytkownicy mogą logować się jednokrotnie, aby uzyskać dostęp do wielu kont AWS i aplikacji, bez konieczności używania oddzielnych poświadczeń dla każdego z nich. Rozwiązanie to upraszcza administrację, zwiększa bezpieczeństwo oraz wspiera zasady jednolitego zarządzania tożsamościami w organizacji.

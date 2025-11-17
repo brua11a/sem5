@@ -1,0 +1,1 @@
+Usługa, które rekomenduje administratorowi najlepsze praktyki. Trusted Advisor sprawdza serię testów, żeby sprawdzić jakie wymagania spełnia nasza sieć. 

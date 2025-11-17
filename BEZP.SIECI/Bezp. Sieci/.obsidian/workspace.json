@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA/Local AAA.md",
+                "file": "AAA/Server-Based AAA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local AAA"
+              "title": "Server-Based AAA"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vty",
+                "query": "login block",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,20 +171,23 @@
   },
   "active": "5bb3a12943a5ebe5",
   "lastOpenFiles": [
+    "Zarządzanie dostępem/Privilege level.md",
     "AAA/Server-Based AAA.md",
+    "AAA/RADIUS.md",
+    "AAA/AAA.md",
+    "AAA/TACACS+.md",
+    "AAA/Autentykacja bez AAA.md",
+    "AAA/Local AAA.md",
+    "AAA/Metody autentykacji AAA.md",
+    "Zarządzanie hasłami/Dodatkowe ustawienia haseł i dostępu.md",
+    "Zarządzanie hasłami/Tworzenie użytkowników.md",
     "Pasted image 20251103204304.png",
     "Pasted image 20251103204259.png",
-    "AAA/Local AAA.md",
-    "AAA/Autentykacja bez AAA.md",
-    "AAA/AAA.md",
-    "Zarządzanie hasłami/Tworzenie użytkowników.md",
     "Zarządzanie dostępem/Debugowanie CLI Views.md",
-    "Zarządzanie dostępem/Privilege level.md",
     "Zarządzanie dostępem/Superview.md",
     "Zarządzanie dostępem/Role-Based CLI.md",
     "Zarządzanie hasłami/Podstawy SSH.md",
     "Zarządzanie hasłami/Najprostsza wersja.md",
-    "Zarządzanie hasłami/Dodatkowe ustawienia haseł i dostępu.md",
     "Zarządzanie i nadzorowanie urządzeniami/Podatności SNMP.md",
     "AAA",
     "Zarządzanie i nadzorowanie urządzeniami/MIB.md",
@@ -202,8 +205,6 @@
     "Pasted image 20250518113828.png",
     "Zarządzanie i nadzorowanie urządzeniami/Zabezpieczanie dynamicznego routingu.md",
     "Zarządzanie i nadzorowanie urządzeniami/Protokoły 'rozpoznawania'.md",
-    "INFO.md",
-    "Zarządzanie i nadzorowanie urządzeniami/Zabezpieczanie IOS i konfiguracji.md",
     "Zarządzanie i nadzorowanie urządzeniami",
     "Pasted image 20251027233726.png",
     "Zarządzanie dostępem",

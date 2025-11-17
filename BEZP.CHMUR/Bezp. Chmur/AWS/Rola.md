@@ -1,0 +1,5 @@
+Jest to tożsamość w AWS [[IAM]], podobnie jak [[użytkownik]] – również do niej można przypisywać [[Policy|polityki]] i uprawnienia, które definiują, jakie działania są dozwolone, a jakie zabronione. Najważniejszą różnicą jest to, że rola nie stanowi _trwałej_ tożsamości i nie posiada stałych poświadczeń dostępowych. Zamiast tego, gdy użytkownik lub usługa poprosi o możliwość **przyjęcia** roli, AWS generuje dla niej **tymczasowe** dane uwierzytelniające, które obowiązują tylko przez określony czas.
+
+Po przyjęciu roli oryginalne uprawnienia użytkownika nie są brane pod uwagę, a podczas trwania sesji wykorzystywane są wyłącznie uprawnienia wynikające z przyjętej roli. Takie podejście umożliwia nadawanie dostępu tylko wtedy, kiedy jest on naprawdę potrzebny.
+
+**Za role i tymczasowe credentiale odpowiada AWS STS (Security Token Service).** Ta usługa zwraca tymczasowe credentiale po wykonaniu poprawnego requestu o rolę. 

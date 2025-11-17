@@ -1,0 +1,1 @@
+Bezserwerowa usługa służąca do budowania event-driven aplikacji. Pozwala na połączenie aplikacji polegających na eventach z danymi generującymi te eventy. 

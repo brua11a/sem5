@@ -1,0 +1,1 @@
+Przy pomocy machine learningu próbuje wykryć potencjalnie niebezpieczne dane, które zostały niepoprawnie upublicznione. Skanuje obiekty i decyduje, czy zawierają wrażliwy content taki jak klucze API czy hasła.

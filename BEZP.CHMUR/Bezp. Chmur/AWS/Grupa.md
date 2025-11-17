@@ -1,0 +1,1 @@
+Jest to kolekcja [[Użytkownik|użytkowników]] [[IAM]]. Służy do przypisywania tych samych uprawnień wielu użytkownikom, którym jest potrzebny zestaw dostępu podobnych zasobów.
