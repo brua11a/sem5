@@ -1,0 +1,1 @@
+CDP (*Cisco Discovery Protocol*) jest domyślnie włączony na urządzeniach Cisco, pomaga w automatycznej konfiguracji urządzeń i podaje dane diagnostyczne. Jest bardzo wygodny dla administratora ale rozsyła informacje w sposób niezaszyfrowany. Powinniśmy go wyłączyć albo ograniczyć jego użycie - np. wyłączyć tylko na portach brzegowych. 

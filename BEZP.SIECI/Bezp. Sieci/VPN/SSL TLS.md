@@ -1,0 +1,3 @@
+Wykorzystuje infrastrukturę klucza publicznego i [[Wykorzystanie CA|certyfikaty]] do autentykacji obydwu stron. Połączenia [[VPN]] polegają właśnie na tym protokole. Jeśli chcemy osiągnąć dodatkowe zabezpieczenia, należy rozważyć [[IPsec]], chociaż jest on trudniejszy do wdrożenia od SSL/TLS. 
+
+Operuje na warstwie 7 - aplikacji. Szyfruje ruch HTTP, a nie pakiety IP. Nie jest wymagany też klient VPN - wystarczy przeglądarka, zatem każde urządzenie z przeglądarką może się próbować połączyć.

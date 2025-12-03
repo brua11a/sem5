@@ -1,4 +1,4 @@
-To skrypt na nowszych wersjach urządzeń Cisco, który automatycznie ustawia wszystkie podstawowe zalecenia odnośnie bezpieczeństwa - banner, bezpieczne logowanie, SSH, odpowiednio skonfigurowane serwisy.
+To skrypt na nowszych wersjach urządzeń Cisco, który automatycznie ustawia wszystkie podstawowe zalecenia odnośnie bezpieczeństwa - banner, bezpieczne logowanie, [[Podstawy SSH|SSH]], odpowiednio skonfigurowane serwisy.
 
 Można go traktować jako baseline konfiguracji, który potem można dostosowywać do swoich potrzeb.
 

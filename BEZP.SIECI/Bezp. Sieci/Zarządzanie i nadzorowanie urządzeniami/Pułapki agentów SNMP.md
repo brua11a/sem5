@@ -1,0 +1,1 @@
+**SNMP Trap** to asynchroniczne powiadomienie wysyłane przez **agenta [[SNMP]]** do **menedżera SNMP** bez wcześniejszego żądania. Używane są do informowania o ważnych zdarzeniach lub anomaliach w czasie rzeczywistym.

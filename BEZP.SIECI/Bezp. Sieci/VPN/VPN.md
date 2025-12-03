@@ -1,0 +1,5 @@
+**VPN** (*Virtual Private Network*), jak wskazuje nazwa, tworzy wirtualną sieć prywatną. Pozwala na bezpieczne (szyfrowane) poruszanie się ruchu po niezabezpieczonym kanale (Internecie). Dzięki niemu można bezpiecznie łączyć oddalone od siebie fizycznie segmenty sieci lokalnej (site-to-site, czyli gdy urządzenia obsługujące VPN są na brzegach sieci) lub zdalnych użytkowników (wtedy szyfrowany jest cały ruch od hosta do celu). Pozwala to na wzrost skalowalności i kompatybilności. 
+
+Stare standardy VPN (GRE - Generic Routing Encapsulation) nie oferowały szyfrowania, jedynie odpowiednią enkapsulację ruchu IP w celu utworzenia wirtualnego łącza punkt-punkt.
+
+VPN może być zewnętrzną usługą, za którą komuś płacimy albo może być konfigurowany przez nas samych. Jeśli VPN jest od dostawcy usług, to wykorzystywany jest protokół MLPS w warstwie 2 i 3. Wtedy cała odpowiedzialność leży po stornie dostawcy. Jeśli my sami, przedsiębiorstwo, zarządzamy VPN, to na nas leży cała odpowiedzialność.

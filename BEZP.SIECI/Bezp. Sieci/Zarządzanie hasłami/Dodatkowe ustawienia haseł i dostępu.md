@@ -17,7 +17,7 @@ Pozwala spowolnić ataki brute force. Działa w "Normal mode" - router liczy ilo
 Bez tej komendy pozostałe komendy "wzmacniające" `login` nie zadziałają, zatem jest ona konieczna.
 
 #### Quiet mode
-Przy próbie logowania zdalnego pozwala ona na zweryfikowanie adresu źródłowego i porównanie go z dostępną listą ACL, w której będą zezwolone zakresy adresów.
+Przy próbie logowania zdalnego pozwala ona na zweryfikowanie adresu źródłowego i porównanie go z dostępną [[Lista ACL|listą ACL]], w której będą zezwolone zakresy adresów.
 
 Jeśli ilość nieudanych loginów przekroczy pewną granicę, WSZYSTKIE próby logowanie (Telnetem, SSH, HTTP) są zablokowane na czas określony w `login block-for`. Żeby jednak nie blokować administratorów, można określić listę dozwolonych adresów jako ACL.
 

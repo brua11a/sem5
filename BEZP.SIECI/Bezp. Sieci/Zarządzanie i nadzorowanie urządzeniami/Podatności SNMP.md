@@ -4,7 +4,7 @@ W SNMPv3 ten problem został rozwiązany poprzez mechanizmy szyfrowania, hashowa
 
 **Przykładowo, można skonfigurować SNMPv3 poprzez:**
 - `Router(config)#` **`ip access-list`** *`acl-name`*
-  >Utwórz nazwaną listę [[ACL]]
+  >Utwórz nazwaną [[Lista ACL|listę ACL]]
 - `Router(config-std-nacl)#` **`permit`** *`source_net`*
   > Dodaj do niej sieć, której hosty mają być dozwolone
 - `Router(config)#` **`snmp-server view`** *`view-name oid-tree`*
