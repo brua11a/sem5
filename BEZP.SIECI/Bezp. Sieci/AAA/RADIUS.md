@@ -20,7 +20,7 @@ Protokół uwierzytelniania stosowany do komunikacji z AAA. Spełnia podobną ro
 2. **Określ jaki serwer będzie używany do AAA** - RADIUS
    >`R1(config)#` **`radius server`** *`server-name`*
    >
-   >Ten serwer tworzy ten serwer "lokalnie", ale żeby ta nazwa coś znaczyła, należy też wybrać adres IP. Nazwa to w sumie alias. Można też określić port do autentykacji i accountingu przy przy pomocy tej komendy, gdzie jest to silnie zalecane ponieważ Ciscowe routery używają innych portów do autentykacji niż RADIUS
+   >Ta komenda tworzy ten serwer "lokalnie", ale żeby ta nazwa coś znaczyła, należy też wybrać adres IP. Nazwa to w sumie alias. Można też określić port do autentykacji i accountingu przy przy pomocy tej komendy, gdzie jest to silnie zalecane ponieważ Ciscowe routery używają innych portów do autentykacji niż RADIUS
    >
    >`R1(config-radius-server)#` **`address ipv4`** *`ip-address`* **`auth-port`** *`auth-port-num`* **`acct-port`** *`acct-port-num`*
 1. **Skonfiguruj klucz szyfrowania**, służący do utajnienia ruchu między routerem a serwerem
