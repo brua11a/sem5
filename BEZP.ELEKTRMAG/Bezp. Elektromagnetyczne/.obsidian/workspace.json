@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wykład 3/Mierzenie.md",
+                "file": "Wykład 6/Bezpośrednie badanie wrażliwości.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mierzenie"
+              "title": "Bezpośrednie badanie wrażliwości"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "elektrostat",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7b75f4596853fca9",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wykład 1/Środowisko elektromagnetyczne.md",
+                "file": "Wykład 6/Bezpośrednie badanie wrażliwości.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Środowisko elektromagnetyczne"
+              "title": "Backlinks for Bezpośrednie badanie wrażliwości"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wykład 1/Środowisko elektromagnetyczne.md",
+                "file": "Wykład 6/Bezpośrednie badanie wrażliwości.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Środowisko elektromagnetyczne"
+              "title": "Outgoing links from Bezpośrednie badanie wrażliwości"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wykład 1/Środowisko elektromagnetyczne.md",
+                "file": "Wykład 1/Podstawy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Środowisko elektromagnetyczne"
+              "title": "Outline of Podstawy"
             }
           }
         ]
@@ -171,18 +171,46 @@
   },
   "active": "b9ebcaf82f4213d1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Wykład 3/Mierzenie.md",
-    "Pasted image 20251013141317.png",
-    "Wykład 2/Podstawy fizyki zjawisk.md",
-    "Wykład 3",
-    "Wykład 2/Natężenie pola w miejscu odbioru.md",
+    "Wykład 6/Wybuch na dużej wysokości.md",
+    "Wykład 6/Bezpośrednie badanie wrażliwości.md",
+    "Pasted image 20251229225336.png",
+    "Wykład 6/Wybuch na powierzchni ZIemi.md",
+    "Wykład 6/Wybuch w atmosferze.md",
+    "Pasted image 20251229225229.png",
+    "Pasted image 20251229225211.png",
+    "Wykład 6/Zagrożenia w środowisku EM.md",
+    "Wykład 6/Klasyfikacja zaburzeń EM.md",
+    "Wykład 6/EMP.md",
+    "Pasted image 20251229224741.png",
+    "Pasted image 20251229224659.png",
+    "Pasted image 20251229224348.png",
+    "Pasted image 20251229224304.png",
+    "Pasted image 20251229223831.png",
+    "Pasted image 20251229213220.png",
+    "Wykład 4/Pomiar zaburzeń przewodzonych.md",
     "Wykład 1/Podstawy.md",
-    "Wykład 2/Anteny.md",
-    "Wykład 1/Środowisko elektromagnetyczne.md",
+    "Wykład 4/Sprzężenia galwaniczne.md",
+    "Wykład 2/Podstawy zaburzeń.md",
+    "Wykład 4/Zaburzenia EM.md",
+    "Wykład 3/Natężenie pola w miejscu odbioru.md",
+    "Pasted image 20251229211931.png",
+    "Wykład 5/Emisja i rozpraszanie.md",
+    "Wykład 6",
+    "Wykład 5/Ekranowanie.md",
+    "Wykład 5/Ochrona informacji użytecznej.md",
+    "Wykład 5/TEMPEST.md",
+    "Wykład 1/Terminologia.md",
+    "Wykład 1/Kompatybilność.md",
+    "Wykład 3/Modele propagacji fal radiowych.md",
+    "Wykład 4/Zakłócenia przewodzone.md",
+    "Wykład 4/Cęgi absorpcyjne.md",
+    "Wykład 4/OATS.md",
+    "Wykład 5",
+    "Wykład 4/Sieci sztuczne.md",
+    "Wykład 4/Sprzężenia pojemnościowe.md",
+    "Wykład 4/Sprzężęnia indukcyjne.md",
+    "Wykład 3",
     "Wykład 2",
-    "INFO.md",
-    "Wykład 1",
-    "Welcome.md"
+    "Wykład 1"
   ]
 }

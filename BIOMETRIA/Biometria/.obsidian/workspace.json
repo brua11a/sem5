@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WYKŁAD/Wykład 2/Zastosowania biometrii.md",
-                "mode": "preview",
+                "file": "WYKŁAD/Wykład 9/Twarz.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zastosowania biometrii"
+              "title": "Twarz"
             }
           }
         ]
@@ -171,11 +171,17 @@
   },
   "active": "d26b0de95b39e801",
   "lastOpenFiles": [
-    "WYKŁAD/Wykład 1/Generyczny schemat systemu biometrycznego.md",
+    "WYKŁAD/Info.md",
+    "WYKŁAD/Wykład 9/Twarz.md",
+    "Pasted image 20251105134003.png",
+    "WYKŁAD/Wykład 5/Testowanie wydajności.md",
+    "WYKŁAD/Wykład 4/Parametry systemów i ocena skuteczności.md",
+    "WYKŁAD/Wykład 8/Keystroking.md",
+    "WYKŁAD/Wykład 9",
     "WYKŁAD/Wykład 2/Zastosowania biometrii.md",
+    "WYKŁAD/Wykład 1/Generyczny schemat systemu biometrycznego.md",
     "WYKŁAD/Wykład 2",
     "WYKŁAD/Wykład 1/ddd.md",
-    "WYKŁAD/Info.md",
     "SEMINARIA/Info.md",
     "WYKŁAD/Wykład 1",
     "WYKŁAD",

@@ -1,0 +1,1 @@
+strona 30 wyklad 4

@@ -1,62 +1,41 @@
 {
   "main": {
-    "id": "1f159add9e7dbc24",
+    "id": "2a7496de7f1e39f0",
     "type": "split",
     "children": [
       {
-        "id": "a3db226ab831a663",
+        "id": "9e0c998274aead5b",
         "type": "tabs",
         "children": [
           {
-            "id": "2a26e29c70c07a36",
+            "id": "9af477c408c39e95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Wykład 2/Tłumienie fali w ośrodku EM.md",
-=======
-                "file": "Wykład 4/Wstęp ogólny.md",
->>>>>>> Stashed changes
+                "file": "Wykład 4/UWB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Tłumienie fali w ośrodku EM"
-            }
-          },
-          {
-            "id": "5bfa8c7d7141f71e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-=======
-              "title": "Wstęp ogólny"
->>>>>>> Stashed changes
+              "title": "UWB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fe127f2f611f86d1",
+    "id": "b4d62fadc8fe7ab0",
     "type": "split",
     "children": [
       {
-        "id": "5934214bca6972e9",
+        "id": "cd2ae916d3de0d36",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2e8a54a9b144a0",
+            "id": "ce7e5cf9852e3a9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,12 +48,12 @@
             }
           },
           {
-            "id": "afc5fb21f4a39b54",
+            "id": "ba879ef16b543519",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gęstość",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +65,7 @@
             }
           },
           {
-            "id": "7aa297f34ff8a3c4",
+            "id": "10cdba175a1fc458",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "54654d8415247327",
+    "id": "a2ac7e9065a33bd2",
     "type": "split",
     "children": [
       {
-        "id": "714f459b61417d03",
+        "id": "ddb871f3a2f2abc3",
         "type": "tabs",
         "children": [
           {
-            "id": "555b02d0b2b349e2",
+            "id": "52068f03b223d19d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wykład 1/Nomenklatura.md",
+                "file": "Wykład 8/Bezpieczeństwo WLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nomenklatura"
+              "title": "Backlinks for Bezpieczeństwo WLAN"
             }
           },
           {
-            "id": "15f074fbd3d962cb",
+            "id": "05f082b4f2b5c6f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wykład 1/Nomenklatura.md",
+                "file": "Wykład 8/Bezpieczeństwo WLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nomenklatura"
+              "title": "Outgoing links from Bezpieczeństwo WLAN"
             }
           },
           {
-            "id": "8ba35592e90c2376",
+            "id": "acddc4eb0bf20be0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,18 +137,18 @@
             }
           },
           {
-            "id": "0a1c36bed22010c5",
+            "id": "368f8e4ae63c14e1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wykład 1/Nomenklatura.md",
+                "file": "Wykład 8/Bezpieczeństwo WLAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nomenklatura"
+              "title": "Outline of Bezpieczeństwo WLAN"
             }
           }
         ]
@@ -181,38 +160,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "5bfa8c7d7141f71e",
+  "active": "9af477c408c39e95",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Wykład 2/Natura fali elektromagnetycznej.md",
-    "Wykład 2/ERP, EIRP, Gi, Gd.md",
-=======
-    "Wykład 3/Modele propagacyjne.md",
+    "Pasted image 20251225212302.png",
+    "Pasted image 20251225212239.png",
+    "Pasted image 20251225212222.png",
+    "Pasted image 20251225212206.png",
     "Wykład 4/Wstęp ogólny.md",
-    "Wykład 4",
+    "Wykład 4/UWB.md",
+    "Wykład 4/Impulsy.md",
+    "Pasted image 20251225211936.png",
+    "Pasted image 20251225211808.png",
+    "Pasted image 20251225211752.png",
+    "Pasted image 20251225211553.png",
+    "Pasted image 20251225211539.png",
+    "Pasted image 20251225211527.png",
+    "Pasted image 20251225211515.png",
+    "Wykład 4/OFDM.md",
+    "Wykład 4/Chirp.md",
+    "Wykład 4/Technologie krótkozasięgowe.md",
+    "Wykład 4/Kluczowanie bezpośrednie.md",
+    "Wykład 4/Skakanie po częstotliwościach.md",
+    "Wykład 7/Przegląd standardów.md",
+    "Wykład 3/Modele propagacyjne.md",
     "Wykład 2/Natura fali elektromagnetycznej.md",
+    "Wykład 2/Odbicie fali.md",
+    "Wykład 2/Odbieranie fali.md",
+    "Wykład 2/Parametry fali EM.md",
+    "Wykład 2/Radio.md",
+    "Wykład 2/Ścieżki propagacji.md",
     "Wykład 2/Tłumienie fali w ośrodku EM.md",
-    "Wykład 3",
-    "Wykład 2/ERP, EIRP, Gi, Gd.md",
+    "Wykład 2/Wektor Poyntinga.md",
     "Wykład 1/Decybele.md",
-    "Wykład 1/Nomenklatura.md",
->>>>>>> Stashed changes
-    "Wykład 1/Podstawy telekomunikacji.md",
-    "Wykład 1/Nomenklatura.md",
-    "Wykład 1/Decybele.md",
-    "Wykład 2/Tłumienie fali w ośrodku EM.md",
-    "INFO.md",
-    "Wykład 2",
-    "Welcome.md",
-    "Wykład 1"
+    "Wykład 1/Fala.md",
+    "Wykład 1/Strata mocy fali.md",
+    "Wykład 1/Łącza i dostęp.md",
+    "Wykład 1/Wielodostęp.md",
+    "Wykład 1/Zakresy fali EM.md",
+    "INFO.md"
   ]
 }

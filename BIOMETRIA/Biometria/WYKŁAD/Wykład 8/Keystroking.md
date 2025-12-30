@@ -19,3 +19,13 @@ Wielu autorów rozkład digramów próbowało modelować rozkładem normalnym, l
 
 Rozkład digrafów można "przyciąć" poprzez usunięcie skrajnych odchyleń - pozwoli to stworzyć dokładniejszy rozkład, lepiej opisujący typowe zachowanie użytkownika.
 
+### Mysz
+Podczas badania myszy można badać szybkość ruchów, pokonywane wektoery przemieszczeń, liczby kliknięć w jednostkach czasum intensywność ruchów, pole odwiedzonych powierzchni itd. Każdy interfejs "sterujący kursorem" będzie miał swoje cechy, zatem ustandaryzowanie tego wymaga ustalenia co potrafią wszystkie takie urządzenia - ruszać kursorem i klikać. 
+
+W przypadku ruchu myszą mogą pojawić się "ruchy niemerytoryczne" - kręcenie kursorem z nudów. Może to też służyć do identyfikacji. 
+
+Touch screen dodatkowo poza informacjami o samym ruchu możemy traktować ekran jako prosty czytnik pojemnościowy - element fizyczny (np. grubość palca), połączenie behawioru z fizycznością. Oceniane są slide'y, tap'y oraz drag-and-drop'y. 
+
+### Ochrona danych
+Musimy coś pisać, robić, cokolwiek, żeby tworzyć wzorzec. Jednocześnie chcemy te dane chronić przed innymi. Obosieczne podejście. Dane (w tym wypadku np. digrafy) należy zachowywać, ale animizować. Będzie do tego służyć funkcja perturbacji - nieodwracalna, z sekretnym kluczem. Dane przed trafieniem do jakiejś bazy danych są zaszumiane funkcją perturbacji, która je przekształca. Jeśli ktoś to wykradnie i będzie próbował się podszywać pod tożsamość z bazy, nie dopasuje się ponieważ próbując się zidentyfikować znowu dokonana zostanie pertutbacja - perturbacja z perturbacji. To, jak ma się perturbować jest klucz zewnętrzny, auxilary. Może to być jakaś "sól" w systemie, może być z zewnątrz przy każdej próbie wykonania. Wszystko to ma związek z **anulowalnymi biometrykami** - stary pattern nie jest powiązany z nowym jeśli zmieni się klucz. Podsumowując, nasza rzeczywista tożsamość nie jest przechowywana, zamiast tego w bazie jest nasza tożsamość przekształcona przez funkcję perturbacji i KLUCZ. Inny klucz daje de facto inną tożsamość nawet z tą samą "rzeczywistą" tożsamością i tą samą funkcją. Pozwala to anulować starą tożsamość i nadpisać ją nową.
+
