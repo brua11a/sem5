@@ -1,6 +1,6 @@
 ![[Pasted image 20251229184426.png]]
 
-Informacja użyteczna może promieniować z różnych dróg, nawet pomimo szyfrowania (przesyłanej i przetwarzanej informacji), **[[Ekranowanie|ekranowania]]**, filtrowania, **uzmiemiania** czy zmniejszania poziomu emitowanej informacji. 
+Informacja użyteczna może promieniować z różnych dróg, nawet pomimo szyfrowania (przesyłanej i przetwarzanej informacji), **[[Ekranowanie|ekranowania]]**, [[Filtrowanie|filtrowania]], **uzmiemiania** czy zmniejszania poziomu emitowanej informacji. 
 
 Dla każdej z dróg musi zostać spełniony warunek **stopnia protekcji systemu**:
 $$

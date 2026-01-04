@@ -9,4 +9,5 @@ Mechanizm generacji impulsu zależy od wysokości wybuchu - do około **2 km** d
 Od 2 do 20 km mamy do czynienia z [[Wybuch w atmosferze|wybuchem w atmosferze]].
 
 Powyżej mowa o tzw. [[Wybuch na dużej wysokości|wybuchu na dużej wysokości]]
-#### LEMP
+#### [[LEMP]]
+Mowa tu o naturalnych źródłach pola EM, takich jak pole magnetyczne Ziemii, szumy słoneczne i kosmiczne, a także właśnie szumach atmosferycznych - LEMP.
