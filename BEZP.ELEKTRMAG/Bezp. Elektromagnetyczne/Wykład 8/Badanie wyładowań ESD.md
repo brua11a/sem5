@@ -1,4 +1,4 @@
-Do badania odporności na wyładowania ESD wykorzystywane są generatory. 
+D*o badania odporności na wyładowania ESD wykorzystywane są generatory. 
 
 ![[Pasted image 20260104201005.png]]
 - **$R_d$ = 330Ω** - rezystor wyładowczy

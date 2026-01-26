@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WYKŁAD/Wykład 9/Twarz.md",
-                "mode": "source",
+                "file": "WYKŁAD/Wykład 10/Twarz 2.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Twarz"
+              "title": "Twarz 2"
+            }
+          },
+          {
+            "id": "01c14eeba78cc086",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +182,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "d26b0de95b39e801",
+  "active": "01c14eeba78cc086",
   "lastOpenFiles": [
-    "WYKŁAD/Info.md",
     "WYKŁAD/Wykład 9/Twarz.md",
+    "WYKŁAD/Wykład 10/Twarz 2.md",
+    "WYKŁAD/Wykład 10",
+    "WYKŁAD/Info.md",
     "Pasted image 20251105134003.png",
     "WYKŁAD/Wykład 5/Testowanie wydajności.md",
     "WYKŁAD/Wykład 4/Parametry systemów i ocena skuteczności.md",
