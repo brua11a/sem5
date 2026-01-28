@@ -11,12 +11,14 @@
             "id": "01c14eeba78cc086",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "WYKŁAD/Wykład 7/olga1.png"
+                "file": "WYKŁAD/Wykład 8/Keystroking.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "olga1"
+              "icon": "lucide-file",
+              "title": "Keystroking"
             }
           }
         ]
@@ -169,20 +171,22 @@
   },
   "active": "01c14eeba78cc086",
   "lastOpenFiles": [
+    "Pasted image 20260128153517.png",
+    "Pasted image 20260128153026.png",
+    "Pasted image 20260128153015.png",
+    "Pasted image 20260128152959.png",
+    "WYKŁAD/Wykład 7/olga3.png",
+    "WYKŁAD/Wykład 7/olga2.png",
+    "WYKŁAD/Wykład 7/olga1.png",
+    "WYKŁAD/Wykład 10/Biometria_Prawne_i_etyczne_aspekty_prezentacja_15.01.2026_all.pdf",
     "WYKŁAD/Wykład 6/Odciski palców.md",
     "Pasted image 20260128152611.png",
     "Pasted image 20260128152350.png",
     "Pasted image 20260128152203.png",
     "Pasted image 20260128151322.png",
-    "Pasted image 20260128151309.png",
-    "Pasted image 20260128145433.png",
-    "Pasted image 20260128145425.png",
-    "Pasted image 20260128145418.png",
-    "Pasted image 20260128144427.png",
     "WYKŁAD/Wykład 6/2KK.pdf",
     "WYKŁAD/Wykład 5/Wady i zalety wybranych biometryk.md",
     "WYKŁAD/Wykład 2/Zastosowania biometrii.md",
-    "WYKŁAD/Wykład 3/weronika.png",
     "WYKŁAD/Wykład 5/Testowanie wydajności.md",
     "WYKŁAD/Wykład 4/FNM, FNMR, FAR, FRR.md",
     "WYKŁAD/Wykład 5/stm15_przeglad_technologii_biometrycznych.pdf",
@@ -193,13 +197,12 @@
     "WYKŁAD/Wykład 4/Biometria_ćwiczenie_RPM_CMC_Final-1.pdf",
     "WYKŁAD/Wykład 4/BIOMETRIA WYKŁAD 8_ BŁĘDY SYSTEMOW BIOMETRYCZNYCH.pdf",
     "WYKŁAD/Wykład 4/bit-2014-lato-w14-ns.pdf",
-    "WYKŁAD/Wykład 10/Twarz 2.md",
+    "WYKŁAD/Wykład 9+11/Twarz 2.md",
     "WYKŁAD/Wykład 1/KrzysztofSlot-IB-Intro.pdf",
-    "WYKŁAD/Wykład 11/Biometria_Prawne_i_etyczne_aspekty_prezentacja_15.01.2026_all.pdf",
     "WYKŁAD/Wykład 11/Niepotwierdzony 708792.crdownload",
-    "WYKŁAD/Wykład 11",
+    "WYKŁAD/Wykład 10",
     "WYKŁAD/Wykład 8/SomeRemarksOnKeystrokeDynamics-Final.pdf",
-    "WYKŁAD/Wykład 9/Twarz.md",
+    "WYKŁAD/Wykład 9+11/Twarz.md",
     "WYKŁAD/Wykład 8/Keystroking.md",
     "WYKŁAD/Wykład 1/ddd.md",
     "SEMINARIA/Info.md",
