@@ -9,6 +9,8 @@
    > W scenariuszu weryfikacji próbka jest porównywana z bazą danych - jeśli próbka wpasowuje się w pewien próg poprawności, użytkownik jest przepuszczany (relacja 1:1). "Czy sprawdzana osoba jest tym, za kogo się podaje?"
    > 
    > W przypadku identyfikacji sprawdzane są WSZYSTKIE próbki w bazie i listowane są potencjalnie pasujące, nawet wszystkie permutacje (relacja 1:N). "Kim jest sprawdzana osoba?"
+   > 
+   > ![[Pasted image 20260128134919.png]]
 
 #### Podstawowe właściwości systemu biometrycznego
 1. **Ochrona wzorca biometrycznego i prywatności**

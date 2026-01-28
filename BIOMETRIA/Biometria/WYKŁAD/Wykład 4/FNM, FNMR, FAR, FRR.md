@@ -63,3 +63,5 @@ $P_g:$ prawdopodobieństwo, że próbka $B$ pochodzi od *genuine*
 Udoskonalenie całkowitego błędu oczekiwanego polega na przypisaniu kosztu do błędu i wyliczeniu kosztu oczekiwanego.
 
 $\text{KOSZT}=C_{FMR}*\text{FMR}(T)*P_i+C_{FNMR}*\text{FNMR}(T)*P_g$
+
+![[Pasted image 20260128142623.png]]
