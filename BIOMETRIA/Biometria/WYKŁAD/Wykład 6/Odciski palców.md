@@ -1,5 +1,7 @@
 Omawiamy "konkretną modalność biometryczną", a raczej tylko konkretne przykłady tego, jak podejść do linii papilarnych.
 
+![[Pasted image 20260128114327.png]]
+
 Zaczęło się od metody Fauldsa - polegała na analizie odcisków wszystkich 10 palców. Nie przeszło.
 Potem FBI rozwinęło AFIS - automatyczna identyfikacja na bazie odcisków
 2009 - india wprowadza UIDAI
